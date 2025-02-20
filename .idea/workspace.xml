@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part10/HandlingCollectionsAsStreams/AverageOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part10/HandlingCollectionsAsStreams/AverageOfSelectedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/MainPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Packable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/ListasaPethodParameter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/MapAsAMethodParameter/MapAsAMethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/SetAsMethodParameter/SetAsMethodParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/CustomTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/TripleTacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/NoiseCapable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Herd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/MainPart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/MainPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Organism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/AddingandListingitems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/AddingandListingitems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/ItemP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/ItemP2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AbdalrhmanAbu-Saif&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AbdalrhmanAbu-Saif/JavaBasics.git&quot;,
+    &quot;accountId&quot;: &quot;832ba464-2037-495a-89b5-6f7237955701&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2stIiA2qko8YNfBMsQttVLDB7RS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddingAMeal.executor": "Run",
+    "Application.AddingMoneyP4.executor": "Run",
+    "Application.AddingandListingitems.executor": "Run",
+    "Application.AgeOfOldest.executor": "Run",
+    "Application.Alternativemethods.executor": "Run",
+    "Application.AvClup.executor": "Run",
+    "Application.AverageOfNumbers.executor": "Run",
+    "Application.AverageOfSelectedNumbers.executor": "Run",
+    "Application.AverageofPositiveNumbers.executor": "Run",
+    "Application.BookRecommendation.executor": "Run",
+    "Application.Books.executor": "Run",
+    "Application.BooksFromFile.executor": "Run",
+    "Application.CargoHold.executor": "Run",
+    "Application.Cleaningupthetranslation.executor": "Run",
+    "Application.ClearingtheFoodList.executor": "Run",
+    "Application.ComparingSizes.executor": "Run",
+    "Application.Count.executor": "Run",
+    "Application.CountingWeighingsP3.executor": "Run",
+    "Application.Cubes.executor": "Run",
+    "Application.DayOfWeek.executor": "Run",
+    "Application.Dinosaur.executor": "Run",
+    "Application.Divisible.executor": "Run",
+    "Application.DumbP1.executor": "Run",
+    "Application.FeedingP2.executor": "Run",
+    "Application.Firstwords.executor": "Run",
+    "Application.Functionality.executor": "Run",
+    "Application.GradeDistribution.executor": "Run",
+    "Application.GradesandPoints.executor": "Run",
+    "Application.GuestListFromaFile.executor": "Run",
+    "Application.Heaviestitem.executor": "Run",
+    "Application.HoldClass.executor": "Run",
+    "Application.IndexWasNotFound.executor": "Run",
+    "Application.IsTrue.executor": "Run",
+    "Application.JavaProgramming1.Part5.Objectsandreferences.IdenticalTwins.Main.executor": "Run",
+    "Application.JavaProgramming1.Part6.Objectsonaistandalistaspartofanobject.LongestinCollection.Main.executor": "Run",
+    "Application.JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4.executor": "Run",
+    "Application.JavaProgramming2.Part10.TheComparableInterface.LiteracyComparison.Main.executor": "Run",
+    "Application.JavaProgramming2.Part8.SimilarityOfObjects.SameDate.MainSameData.executor": "Run",
+    "Application.JavaProgramming2.Part9.ClassInheritance.PersonAndSubclasses.Main.executor": "Run",
+    "Application.JavaProgramming2.Part9.ClassInheritance.Warehousing.MainPart2.executor": "Run",
+    "Application.JavaProgramming2.Part9.Interfaces.InterfaceInABox.Main.executor": "Run",
+    "Application.JavaProgramming2.Part9.Interfaces.ListasaPethodParameter.Main.executor": "Run",
+    "Application.JavaProgramming2.Part9.Interfaces.OnlineShop.MainPart2.executor": "Run",
+    "Application.JavaProgramming2.Part9.ObjectPolymorphism.Animals.MainPart2.executor": "Run",
+    "Application.LastWord.executor": "Run",
+    "Application.Less.executor": "Run",
+    "Application.LimitedNumbers.executor": "Run",
+    "Application.LineByLine.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainABC.executor": "Run",
+    "Application.MainAgent.executor": "Run",
+    "Application.MainAll.executor": "Run",
+    "Application.MainBird.executor": "Run",
+    "Application.MainBooks.executor": "Run",
+    "Application.MainCardpaymentsp3.executor": "Run",
+    "Application.MainClassInheritance.executor": "Run",
+    "Application.MainContainer.executor": "Run",
+    "Application.MainCounter.executor": "Debug",
+    "Application.MainCube.executor": "Run",
+    "Application.MainDecreasingCounter.executor": "Run",
+    "Application.MainDept.executor": "Run",
+    "Application.MainDictionaryOfManyTranslations.executor": "Debug",
+    "Application.MainDoor.executor": "Run",
+    "Application.MainFilm.executor": "Run",
+    "Application.MainFitbyte.executor": "Run",
+    "Application.MainGauge.executor": "Run",
+    "Application.MainGift.executor": "Run",
+    "Application.MainHashForDate.executor": "Run",
+    "Application.MainIOU.executor": "Run",
+    "Application.MainItem.executor": "Run",
+    "Application.MainItemP2.executor": "Run",
+    "Application.MainMessagingService.executor": "Run",
+    "Application.MainMultiplier.executor": "Run",
+    "Application.MainP1.executor": "Run",
+    "Application.MainPackage.executor": "Run",
+    "Application.MainPart1.executor": "Run",
+    "Application.MainPart2.executor": "Run",
+    "Application.MainPart2art3.executor": "Run",
+    "Application.MainPart3.executor": "Run",
+    "Application.MainPart4.executor": "Run",
+    "Application.MainPart5.executor": "Run",
+    "Application.MainPart6.executor": "Run",
+    "Application.MainPart7.executor": "Run",
+    "Application.MainPaymentTerminal.executor": "Run",
+    "Application.MainPerson.executor": "Run",
+    "Application.MainPrgram.executor": "Run",
+    "Application.MainProduct.executor": "Run",
+    "Application.MainProductWarehouseWithHistory.executor": "Run",
+    "Application.MainRoom.executor": "Run",
+    "Application.MainSameData.executor": "Run",
+    "Application.MainSong.executor": "Run",
+    "Application.MainSuitcase.executor": "Run",
+    "Application.MainWageOrder.executor": "Run",
+    "Application.MainWhistle.executor": "Run",
+    "Application.Mainabbreviations.executor": "Run",
+    "Application.MakingTransactions.executor": "Run",
+    "Application.MapAsAMethodParameter.executor": "Run",
+    "Application.Minus.executor": "Run",
+    "Application.Moreexpensive.executor": "Run",
+    "Application.MultipleCards.executor": "Run",
+    "Application.MultipleSums.executor": "Run",
+    "Application.NameOftheOldest.executor": "Run",
+    "Application.NextDay.executor": "Run",
+    "Application.Nicknames.executor": "Run",
+    "Application.NonNegativeBalance.executor": "Run",
+    "Application.NumberofStrings.executor": "Run",
+    "Application.NumbersFromaFile.executor": "Run",
+    "Application.OneMinute.executor": "Run",
+    "Application.Orwell.executor": "Run",
+    "Application.Part1.executor": "Run",
+    "Application.Part2.executor": "Run",
+    "Application.Part3.executor": "Run",
+    "Application.Passpercentage.executor": "Run",
+    "Application.PersonalDetails.executor": "Run",
+    "Application.Plus.executor": "Run",
+    "Application.PointAveragePasssingGrade.executor": "Run",
+    "Application.PointAverages.executor": "Run",
+    "Application.PositiveNumbers.executor": "Run",
+    "Application.Positivity.executor": "Run",
+    "Application.PriceDifference.executor": "Run",
+    "Application.PrintInRange.executor": "Run",
+    "Application.PrintThrice.executor": "Run",
+    "Application.Printing.executor": "Run",
+    "Application.PrintingUserInput.executor": "Run",
+    "Application.PrintingaFile.executor": "Run",
+    "Application.PrintingaSpecifiedFile.executor": "Run",
+    "Application.PrintingtheMeals.executor": "Run",
+    "Application.ReadingFilesPerLine.executor": "Run",
+    "Application.ReadingandListingRecipes.executor": "Run",
+    "Application.RecordsFromFile.executor": "Run",
+    "Application.SearchingforRecipes.executor": "Run",
+    "Application.SetAsMethodParameter.executor": "Run",
+    "Application.ShortestPerson.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.StudentsToString.executor": "Run",
+    "Application.SumAndAverage.executor": "Run",
+    "Application.SumOfUserInput.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.SwapNumbers.executor": "Run",
+    "Application.TakingFromaRoom.executor": "Run",
+    "Application.TelevisionPrograms.executor": "Run",
+    "Application.TheClassTemplate.executor": "Run",
+    "Application.TheHoldsContents.executor": "Run",
+    "Application.TimeOfDay.executor": "Run",
+    "Application.ToppingUpTheCard.executor": "Run",
+    "Application.Toppingupthecardwithanegativevalue.executor": "Run",
+    "Application.TranslatingaWord.executor": "Run",
+    "Application.UniqueLastNames.executor": "Run",
+    "Application.VowelCheck.executor": "Run",
+    "Application.WeighingPeopleP1.executor": "Run",
+    "Application.YourFirstAccount.executor": "Run",
+    "Application.YourFirstBankTransfer.executor": "Run",
+    "Application.findSmallest.executor": "Run",
+    "Application.indexOfFrom.executor": "Run",
+    "Application.ndexofthesmalles.executor": "Run",
+    "Application.part2.executor": "Run",
+    "Application.part3Lists.executor": "Run",
+    "Application.printInStars.executor": "Run",
+    "Application.printneatly.executor": "Run",
+    "Application.sumOfArray.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "java.suggest.annotation.dependency": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/trainee1/Documents/Java_programming",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaProgramming2/Part8/HashMap/PrintmeAnotherHashMap" />
+      <recent name="$PROJECT_DIR$/src/JavaProgramming2/Part8/ShortRecap/LiquidContainers" />
+      <recent name="$PROJECT_DIR$/src/JavaProgramming1/Part4/FilesAndReadingData/PrintingaSpecifiedFile" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="JavaProgramming2.Part9.ClassInheritance.PersonAndSubclasses" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="JavaProgramming2.Part8.SimilarityOfObjects.SameDate" />
+      <recent name="JavaProgramming1.Part4.IntrotoOOP" />
+      <recent name="JavaProgramming1" />
+      <recent name="Part3.Array" />
+      <recent name="Part3.String" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaProgramming1.Part7.LargerProgrammingExercises.BigYear" />
+      <recent name="JavaProgramming1.Part6.Objectsonaistandalistaspartofanobject.HeightOrder" />
+      <recent name="JavaProgramming1.Part5.Objectsandreferences.IdenticalTwins" />
+      <recent name="JavaProgramming1.Part5.Objectsandreferences.NullPointerException" />
+      <recent name="JavaProgramming1.Part5.Objectsandreferences.Biggestpetshop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainPart5">
+    <configuration name="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.Main" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPart2art3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart2art3" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.EnumAndIterator.MainPart4" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.EnumAndIterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart5" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainPart5" />
+        <item itemvalue="Application.JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" />
+        <item itemvalue="Application.MainPart2art3" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainPart4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="" />
+      <created>1739268573092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739268573092</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1739280422598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739280422598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding hi to Part1.java">
+      <option name="closed" value="true" />
+      <created>1739280767362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739280767362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding hi to Part3.java&#10;Methods and dividing the program into smaller parts">
+      <option name="closed" value="true" />
+      <created>1739347303472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739347303472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding hi to Part3.java&#10;Methods and dividing the program into smaller parts">
+      <option name="closed" value="true" />
+      <created>1739350731304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739350731304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding hi to Part3.java&#10;Methods and dividing the program into smaller parts">
+      <option name="closed" value="true" />
+      <created>1739364005124</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739364005124</updated>
+    </task>
+    <task id="LOCAL-00006" summary="splits new">
+      <option name="closed" value="true" />
+      <created>1739452192779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739452192779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new">
+      <option name="closed" value="true" />
+      <created>1739477621532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739477621532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new 2">
+      <option name="closed" value="true" />
+      <created>1739478254104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739478254104</updated>
+    </task>
+    <task id="LOCAL-00009" summary="oop p1 not all">
+      <option name="closed" value="true" />
+      <created>1739486740516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739486740516</updated>
+    </task>
+    <task id="LOCAL-00010" summary="oop p1  all">
+      <option name="closed" value="true" />
+      <created>1739538513530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739538513530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="part 4  all">
+      <option name="closed" value="true" />
+      <created>1739562580985</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739562580985</updated>
+    </task>
+    <task id="LOCAL-00012" summary="part 5  not all">
+      <option name="closed" value="true" />
+      <created>1739574858737</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739574858737</updated>
+    </task>
+    <task id="LOCAL-00013" summary="I have completed Java Programming I, except for a few exercises on Separating the User Interface from Program Logic">
+      <option name="closed" value="true" />
+      <created>1739663444154</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739663444154</updated>
+    </task>
+    <task id="LOCAL-00014" summary="java rgramming|| part 8 not all">
+      <option name="closed" value="true" />
+      <created>1739717104387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739717104387</updated>
+    </task>
+    <task id="LOCAL-00015" summary="java rgramming|| part 9 not all">
+      <option name="closed" value="true" />
+      <created>1739887526893</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739887526893</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="eeed4a14-3193-4b0d-b673-e7407dc044c6" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="eeed4a14-3193-4b0d-b673-e7407dc044c6">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="adding hi to Part1.java" />
+    <MESSAGE value="adding hi to Part3.java&#10;Methods and dividing the program into smaller parts" />
+    <MESSAGE value="splits new" />
+    <MESSAGE value="new" />
+    <MESSAGE value="new 2" />
+    <MESSAGE value="oop p1 not all" />
+    <MESSAGE value="oop p1  all" />
+    <MESSAGE value="part 4  all" />
+    <MESSAGE value="part 5  not all" />
+    <MESSAGE value="I have completed Java Programming I, except for a few exercises on Separating the User Interface from Program Logic" />
+    <MESSAGE value="java rgramming|| part 8 not all" />
+    <MESSAGE value="java rgramming|| part 9 not all" />
+    <MESSAGE value="java rgramming|| part 9  all + the  first  part of 10" />
+    <MESSAGE value="java rgramming|| part 9  all + the  first  part of ten" />
+    <MESSAGE value="java prgramming|| part 9  all + the  first  part of ten" />
+    <MESSAGE value="part9 + part 10 sec 1+2" />
+    <MESSAGE value="part9 + part 10 sec 1" />
+    <MESSAGE value="done part 9 + 10" />
+    <MESSAGE value="done part 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="done part 10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming1/Part1/ConditionalStatements/GradesandPoints.java</url>
+          <line>5</line>
+          <properties class="JavaProgramming1.Part1.ConditionalStatements.GradesandPoints" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming1/Part7/Algorithms/Sorting/indexOfFrom.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaProgramming1/Part7/Algorithms/Sorting/indexOfFrom.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
