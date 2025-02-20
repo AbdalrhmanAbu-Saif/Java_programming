@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10">
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part10/HandlingCollectionsAsStreams/AverageOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part10/HandlingCollectionsAsStreams/AverageOfSelectedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/CD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/MainPart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/InterfaceInABox/Packable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/ListasaPethodParameter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/MapAsAMethodParameter/MapAsAMethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/MainPart7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/OnlineShop/Warehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/SetAsMethodParameter/SetAsMethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/CustomTacoBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/Interfaces/TacoBoxes/TripleTacoBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/MainPart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Animals/NoiseCapable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Herd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/MainPart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/MainPart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part9/ObjectPolymorphism/Herds/Organism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/AddingandListingitems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/AddingandListingitems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/ItemP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaProgramming1/Part5/Objectsandreferences/Archive/ItemP2.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,12 +28,12 @@
     &quot;assignee&quot;: &quot;AbdalrhmanAbu-Saif&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AbdalrhmanAbu-Saif/JavaBasics.git&quot;,
-    &quot;accountId&quot;: &quot;832ba464-2037-495a-89b5-6f7237955701&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AbdalrhmanAbu-Saif/Java_programming",
+    "accountId": "832ba464-2037-495a-89b5-6f7237955701"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
