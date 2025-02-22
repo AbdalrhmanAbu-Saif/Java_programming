@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10" />
+    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10">
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/IA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/IB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/IC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BookAndPlane/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BookAndPlane/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/SaveablePerson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/SaveablePerson/Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/ShowAndTicket/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/ShowAndTicket/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/StudentAndUniversity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/StudentAndUniversity/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/ThePlayerAndTheot/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/ThePlayerAndTheot/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/ProcessingFiles/SaveableDictionary/MainPart1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/ProcessingFiles/SaveableDictionary/SaveableDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/AverageSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/MainParr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/MainPart3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/MainPart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/StandardSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/SensorsAndTemperature/TemperatureSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/ValidatingParameters/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Exceptions/ValidatingParameters/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Packages/FirstPackages/TextInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/Packages/FirstPackages/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +47,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -126,6 +160,7 @@
     "Application.MainMultiplier.executor": "Run",
     "Application.MainP1.executor": "Run",
     "Application.MainPackage.executor": "Run",
+    "Application.MainParr2.executor": "Run",
     "Application.MainPart1.executor": "Run",
     "Application.MainPart2.executor": "Run",
     "Application.MainPart2art3.executor": "Run",
@@ -250,13 +285,13 @@
       <recent name="JavaProgramming1.Part5.Objectsandreferences.Biggestpetshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainPart5">
-    <configuration name="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" />
+  <component name="RunManager" selected="Application.MainPart1">
+    <configuration name="MainParr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.MainParr2" />
       <module name="Java Prgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="PATTERN" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.Main" />
+    <configuration name="MainPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part11.Exceptions.ProcessingFiles.SaveableDictionary.MainPart1" />
       <module name="Java Prgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="PATTERN" value="JavaProgramming2.Part11.Exceptions.ProcessingFiles.SaveableDictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +312,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPart2art3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart2art3" />
+    <configuration name="MainPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.MainPart2" />
       <module name="Java Prgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="PATTERN" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.MainPart3" />
+      <module name="Java Prgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,24 +339,11 @@
       </method>
     </configuration>
     <configuration name="MainPart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.EnumAndIterator.MainPart4" />
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.MainPart4" />
       <module name="Java Prgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.EnumAndIterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainPart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart5" />
-      <module name="Java Prgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.*" />
+          <option name="PATTERN" value="JavaProgramming2.Part11.Exceptions.SensorsAndTemperature.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainPart5" />
-        <item itemvalue="Application.JavaProgramming2.Part10.OtherUsefulTechniques.RegularExpressions.SortThemCards.MainPart4" />
-        <item itemvalue="Application.MainPart2art3" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainPart1" />
         <item itemvalue="Application.MainPart4" />
+        <item itemvalue="Application.MainPart3" />
+        <item itemvalue="Application.MainParr2" />
+        <item itemvalue="Application.MainPart2" />
       </list>
     </recent_temporary>
   </component>
