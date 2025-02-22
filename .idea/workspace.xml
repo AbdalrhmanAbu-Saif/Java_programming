@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="done part 10">
+    <list default="true" id="c6025c5e-c818-45f0-addb-2b1cf43a4508" name="Changes" comment="error  in part 11 Exceptions ProcessingFiles SaveableDictionary;">
       <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/A.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/B.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/JavaProgramming2/Part11/ClassDiagrams/BiggerClassDiagram/C.java" afterDir="false" />
@@ -258,7 +258,8 @@
     "last_opened_file_path": "/home/trainee1/Documents/Java_programming",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -544,7 +545,9 @@
     <MESSAGE value="part9 + part 10 sec 1" />
     <MESSAGE value="done part 9 + 10" />
     <MESSAGE value="done part 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="done part 10" />
+    <MESSAGE value="error  in part 11 Exceptions ProcessingFiles SaveableDictionary;" />
+    <MESSAGE value="error  in part 11 Exceptions ProcessingFiles SaveableDictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="error  in part 11 Exceptions ProcessingFiles SaveableDictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
